@@ -2,7 +2,8 @@
 # チャットボットの実装デモページ
 
 このリポジトリはOpenAI公式が公開している[openai-assistants-quickstart](
-https://github.com/openai/openai-assistants-quickstart)の実装を参考にし、これからチャットボットを実装したい方が迷わないよう最小限の構成となっています。  
+https://github.com/openai/openai-assistants-quickstart)の実装を参考にし、これからチャットボットを実装したい方が迷わないよう最小限の構成となっています。
+また、企業からのチャットボット制作を依頼された想定のレイアウトとなっています。
 
 
 ## セットアップ
